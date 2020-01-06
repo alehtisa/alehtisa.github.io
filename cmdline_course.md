@@ -1,4 +1,6 @@
+---
 layout: default
+---
 
 # Command-line tools for linguists
 ## Fall 2019
