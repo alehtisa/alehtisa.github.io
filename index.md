@@ -10,6 +10,7 @@ My motto is: Find out what you like doing best and get someone to pay you for do
 
 # Find me on
 [LinkedIn](https://www.linkedin.com/in/ainolehtisalo/)
+
 [GitHub](github.com/alehtisa)
 
 ## Contact
@@ -67,5 +68,7 @@ My email address is of the form first_name.last_name@helsinki.fi. You can also c
 Master's Thesis (in progress): Racisms in the news and online discussions
 
 ## Misc. 
+
+[Here is my CV.](../assets/documents/CV.pdf)
 
 Please hire me!
